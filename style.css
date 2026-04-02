@@ -1,7 +1,7 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background-color: #E7F5F5;
+  background-color: #e7f5ec7c;
 }
 
 .container {
@@ -27,7 +27,7 @@ button {
 .form-section {
   margin: 20px 0;
   padding: 15px;
-  background: #4a84f0;
+  background: #c14af0;
   border-radius: 20px;
 }
 
@@ -42,5 +42,5 @@ button {
   border: 1px solid #000000;
   padding: 15px;
   border-radius: 20px;
-  background-color: #4a84f0;
+  background-color: #c14af0;
 }
